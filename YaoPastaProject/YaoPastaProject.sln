@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yao.PastaProject.Domain", "Yao.PastaProject.Domain\Yao.PastaProject.Domain.csproj", "{9633EC2E-A044-488C-8703-6C22841FC523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yao.PastaProject.Infrastructure", "Yao.PastaProject.Infrastructure\Yao.PastaProject.Infrastructure.csproj", "{CC95F676-3BDE-4AAC-B153-7EFC89B61FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9633EC2E-A044-488C-8703-6C22841FC523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9633EC2E-A044-488C-8703-6C22841FC523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9633EC2E-A044-488C-8703-6C22841FC523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9633EC2E-A044-488C-8703-6C22841FC523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC95F676-3BDE-4AAC-B153-7EFC89B61FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC95F676-3BDE-4AAC-B153-7EFC89B61FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC95F676-3BDE-4AAC-B153-7EFC89B61FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC95F676-3BDE-4AAC-B153-7EFC89B61FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16899E55-193C-40F6-AC61-F6B14F2AC670}
+	EndGlobalSection
+EndGlobal

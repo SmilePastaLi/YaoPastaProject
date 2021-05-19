@@ -1,0 +1,11 @@
+D:\Yao\YaoPastaProject\YaoPastaProject\Yao.PastaProject.Domain\obj\Debug\net5.0\Yao.PastaProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yao\YaoPastaProject\YaoPastaProject\Yao.PastaProject.Domain\obj\Debug\net5.0\Yao.PastaProject.Domain.AssemblyInfoInputs.cache
+D:\Yao\YaoPastaProject\YaoPastaProject\Yao.PastaProject.Domain\obj\Debug\net5.0\Yao.PastaProject.Domain.AssemblyInfo.cs
+D:\Yao\YaoPastaProject\YaoPastaProject\Yao.PastaProject.Domain\obj\Debug\net5.0\Yao.PastaProject.Domain.csproj.CoreCompileInputs.cache
+D:\Yao\YaoPastaProject\YaoPastaProject\Yao.PastaProject.Domain\bin\Debug\net5.0\Yao.PastaProject.Domain.deps.json
+D:\Yao\YaoPastaProject\YaoPastaProject\Yao.PastaProject.Domain\bin\Debug\net5.0\Yao.PastaProject.Domain.dll
+D:\Yao\YaoPastaProject\YaoPastaProject\Yao.PastaProject.Domain\bin\Debug\net5.0\ref\Yao.PastaProject.Domain.dll
+D:\Yao\YaoPastaProject\YaoPastaProject\Yao.PastaProject.Domain\bin\Debug\net5.0\Yao.PastaProject.Domain.pdb
+D:\Yao\YaoPastaProject\YaoPastaProject\Yao.PastaProject.Domain\obj\Debug\net5.0\Yao.PastaProject.Domain.dll
+D:\Yao\YaoPastaProject\YaoPastaProject\Yao.PastaProject.Domain\obj\Debug\net5.0\ref\Yao.PastaProject.Domain.dll
+D:\Yao\YaoPastaProject\YaoPastaProject\Yao.PastaProject.Domain\obj\Debug\net5.0\Yao.PastaProject.Domain.pdb

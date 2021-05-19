@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Yao\\YaoPastaProject\\YaoPastaProject\\Yao.PastaProject.Infrastructure\\Yao.PastaProject.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\Yao\\YaoPastaProject\\YaoPastaProject\\Yao.PastaProject.Domain\\Yao.PastaProject.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Yao\\YaoPastaProject\\YaoPastaProject\\Yao.PastaProject.Domain\\Yao.PastaProject.Domain.csproj",
+        "projectName": "Yao.PastaProject.Domain",
+        "projectPath": "D:\\Yao\\YaoPastaProject\\YaoPastaProject\\Yao.PastaProject.Domain\\Yao.PastaProject.Domain.csproj",
+        "packagesPath": "C:\\Users\\Siia PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Yao\\YaoPastaProject\\YaoPastaProject\\Yao.PastaProject.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Siia PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.1.196:5002/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Yao\\YaoPastaProject\\YaoPastaProject\\Yao.PastaProject.Infrastructure\\Yao.PastaProject.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Yao\\YaoPastaProject\\YaoPastaProject\\Yao.PastaProject.Infrastructure\\Yao.PastaProject.Infrastructure.csproj",
+        "projectName": "Yao.PastaProject.Infrastructure",
+        "projectPath": "D:\\Yao\\YaoPastaProject\\YaoPastaProject\\Yao.PastaProject.Infrastructure\\Yao.PastaProject.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Siia PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Yao\\YaoPastaProject\\YaoPastaProject\\Yao.PastaProject.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Siia PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.1.196:5002/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Yao\\YaoPastaProject\\YaoPastaProject\\Yao.PastaProject.Domain\\Yao.PastaProject.Domain.csproj": {
+                "projectPath": "D:\\Yao\\YaoPastaProject\\YaoPastaProject\\Yao.PastaProject.Domain\\Yao.PastaProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
